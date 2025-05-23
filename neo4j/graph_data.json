@@ -1,0 +1,1348 @@
+{
+    "nodes": [
+        {
+            "color": "skyblue",
+            "title": "Paul Blythe",
+            "id": "Paul Blythe",
+            "label": "Paul Blythe",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "Angela Scope",
+            "id": "Angela Scope",
+            "label": "Angela Scope",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "Jessica Thompson",
+            "id": "Jessica Thompson",
+            "label": "Jessica Thompson",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "James Thompson",
+            "id": "James Thompson",
+            "label": "James Thompson",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "校园安全事件",
+            "id": "校园安全事件",
+            "label": "校园安全事件",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "社会信任降低",
+            "id": "社会信任降低",
+            "label": "社会信任降低",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "生命财产损失",
+            "id": "生命财产损失",
+            "label": "生命财产损失",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "危害",
+            "id": "危害",
+            "label": "危害",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "公众关注度提高",
+            "id": "公众关注度提高",
+            "label": "公众关注度提高",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "社会舆论压力增大",
+            "id": "社会舆论压力增大",
+            "label": "社会舆论压力增大",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "教育政策争议",
+            "id": "教育政策争议",
+            "label": "教育政策争议",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "教育资源分配调整",
+            "id": "教育资源分配调整",
+            "label": "教育资源分配调整",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "社会影响",
+            "id": "社会影响",
+            "label": "社会影响",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "制定学术规范",
+            "id": "制定学术规范",
+            "label": "制定学术规范",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "开展心理咨询活动",
+            "id": "开展心理咨询活动",
+            "label": "开展心理咨询活动",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "提高教育透明度",
+            "id": "提高教育透明度",
+            "label": "提高教育透明度",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "学术诚信问题",
+            "id": "学术诚信问题",
+            "label": "学术诚信问题",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "学术声誉受损",
+            "id": "学术声誉受损",
+            "label": "学术声誉受损",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "校园环境问题",
+            "id": "校园环境问题",
+            "label": "校园环境问题",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "环境污染",
+            "id": "环境污染",
+            "label": "环境污染",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "改善校园环境",
+            "id": "改善校园环境",
+            "label": "改善校园环境",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "加强安全管理",
+            "id": "加强安全管理",
+            "label": "加强安全管理",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "学生心理健康问题",
+            "id": "学生心理健康问题",
+            "label": "学生心理健康问题",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "舆情事件",
+            "id": "舆情事件",
+            "label": "舆情事件",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "家庭担忧加剧",
+            "id": "家庭担忧加剧",
+            "label": "家庭担忧加剧",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "心理健康影响",
+            "id": "心理健康影响",
+            "label": "心理健康影响",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "措施",
+            "id": "措施",
+            "label": "措施",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "投诉举报渠道",
+            "id": "投诉举报渠道",
+            "label": "投诉举报渠道",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "监控系统建立",
+            "id": "监控系统建立",
+            "label": "监控系统建立",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "数据分析",
+            "id": "数据分析",
+            "label": "数据分析",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "社交媒体监测",
+            "id": "社交媒体监测",
+            "label": "社交媒体监测",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "心理健康评估",
+            "id": "心理健康评估",
+            "label": "心理健康评估",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "检测方法",
+            "id": "检测方法",
+            "label": "检测方法",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "学校",
+            "id": "学校",
+            "label": "学校",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "角色",
+            "id": "角色",
+            "label": "角色",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "社会",
+            "id": "社会",
+            "label": "社会",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "学生",
+            "id": "学生",
+            "label": "学生",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "政府",
+            "id": "政府",
+            "label": "政府",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "校园暴力",
+            "id": "校园暴力",
+            "label": "校园暴力",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "交通意外",
+            "id": "交通意外",
+            "label": "交通意外",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "招生政策争议",
+            "id": "招生政策争议",
+            "label": "招生政策争议",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "学费标准争议",
+            "id": "学费标准争议",
+            "label": "学费标准争议",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "学术不端行为",
+            "id": "学术不端行为",
+            "label": "学术不端行为",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "校园食品卫生问题",
+            "id": "校园食品卫生问题",
+            "label": "校园食品卫生问题",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "校园环境安全问题",
+            "id": "校园环境安全问题",
+            "label": "校园环境安全问题",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "校园暴力事件",
+            "id": "校园暴力事件",
+            "label": "校园暴力事件",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "事件",
+            "id": "事件",
+            "label": "事件",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "交通意外事故",
+            "id": "交通意外事故",
+            "label": "交通意外事故",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "招生政策",
+            "id": "招生政策",
+            "label": "招生政策",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "政策",
+            "id": "政策",
+            "label": "政策",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "学费标准",
+            "id": "学费标准",
+            "label": "学费标准",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "抄袭行为",
+            "id": "抄袭行为",
+            "label": "抄袭行为",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "作弊行为",
+            "id": "作弊行为",
+            "label": "作弊行为",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "食品中毒事件",
+            "id": "食品中毒事件",
+            "label": "食品中毒事件",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "环境污染事件",
+            "id": "环境污染事件",
+            "label": "环境污染事件",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "心理辅导活动",
+            "id": "心理辅导活动",
+            "label": "心理辅导活动",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "活动",
+            "id": "活动",
+            "label": "活动",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "心理健康讲座",
+            "id": "心理健康讲座",
+            "label": "心理健康讲座",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "监控摄像头",
+            "id": "监控摄像头",
+            "label": "监控摄像头",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "设备",
+            "id": "设备",
+            "label": "设备",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "在线投诉平台",
+            "id": "在线投诉平台",
+            "label": "在线投诉平台",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "平台",
+            "id": "平台",
+            "label": "平台",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "大数据分析工具",
+            "id": "大数据分析工具",
+            "label": "大数据分析工具",
+            "shape": "dot"
+        },
+        {
+            "color": "lightgreen",
+            "title": "工具",
+            "id": "工具",
+            "label": "工具",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "社交媒体账号",
+            "id": "社交媒体账号",
+            "label": "社交媒体账号",
+            "shape": "dot"
+        },
+        {
+            "color": "skyblue",
+            "title": "心理健康问卷",
+            "id": "心理健康问卷",
+            "label": "心理健康问卷",
+            "shape": "dot"
+        }
+    ],
+    "edges": [
+        {
+            "title": "FOLLOWS",
+            "label": "FOLLOWS",
+            "color": "gray",
+            "from": "Paul Blythe",
+            "to": "Angela Scope",
+            "arrows": "to"
+        },
+        {
+            "title": "FOLLOWS",
+            "label": "FOLLOWS",
+            "color": "gray",
+            "from": "Angela Scope",
+            "to": "Jessica Thompson",
+            "arrows": "to"
+        },
+        {
+            "title": "FOLLOWS",
+            "label": "FOLLOWS",
+            "color": "gray",
+            "from": "James Thompson",
+            "to": "Jessica Thompson",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "校园安全事件",
+            "to": "社会信任降低",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "校园安全事件",
+            "to": "生命财产损失",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "生命财产损失",
+            "to": "危害",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "生命财产损失",
+            "to": "公众关注度提高",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "社会信任降低",
+            "to": "危害",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "社会信任降低",
+            "to": "社会舆论压力增大",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "教育政策争议",
+            "to": "社会舆论压力增大",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "教育政策争议",
+            "to": "教育资源分配调整",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "教育资源分配调整",
+            "to": "社会影响",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "教育资源分配调整",
+            "to": "危害",
+            "arrows": "to"
+        },
+        {
+            "title": "促使",
+            "label": "促使",
+            "color": "gray",
+            "from": "教育资源分配调整",
+            "to": "制定学术规范",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "社会舆论压力增大",
+            "to": "社会影响",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "社会舆论压力增大",
+            "to": "危害",
+            "arrows": "to"
+        },
+        {
+            "title": "促使",
+            "label": "促使",
+            "color": "gray",
+            "from": "社会舆论压力增大",
+            "to": "开展心理咨询活动",
+            "arrows": "to"
+        },
+        {
+            "title": "促使",
+            "label": "促使",
+            "color": "gray",
+            "from": "社会舆论压力增大",
+            "to": "提高教育透明度",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "学术诚信问题",
+            "to": "社会信任降低",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "学术诚信问题",
+            "to": "学术声誉受损",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "学术声誉受损",
+            "to": "危害",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "学术声誉受损",
+            "to": "教育资源分配调整",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "校园环境问题",
+            "to": "公众关注度提高",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "校园环境问题",
+            "to": "环境污染",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "环境污染",
+            "to": "危害",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "环境污染",
+            "to": "公众关注度提高",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "公众关注度提高",
+            "to": "社会影响",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "公众关注度提高",
+            "to": "危害",
+            "arrows": "to"
+        },
+        {
+            "title": "促使",
+            "label": "促使",
+            "color": "gray",
+            "from": "公众关注度提高",
+            "to": "改善校园环境",
+            "arrows": "to"
+        },
+        {
+            "title": "促使",
+            "label": "促使",
+            "color": "gray",
+            "from": "公众关注度提高",
+            "to": "加强安全管理",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "学生心理健康问题",
+            "to": "舆情事件",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "学生心理健康问题",
+            "to": "家庭担忧加剧",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "学生心理健康问题",
+            "to": "心理健康影响",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "心理健康影响",
+            "to": "危害",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "心理健康影响",
+            "to": "家庭担忧加剧",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "家庭担忧加剧",
+            "to": "社会影响",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "家庭担忧加剧",
+            "to": "危害",
+            "arrows": "to"
+        },
+        {
+            "title": "促使",
+            "label": "促使",
+            "color": "gray",
+            "from": "家庭担忧加剧",
+            "to": "开展心理咨询活动",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "加强安全管理",
+            "to": "措施",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "加强安全管理",
+            "to": "投诉举报渠道",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "加强安全管理",
+            "to": "监控系统建立",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "改善校园环境",
+            "to": "措施",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "改善校园环境",
+            "to": "数据分析",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "改善校园环境",
+            "to": "监控系统建立",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "提高教育透明度",
+            "to": "措施",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "提高教育透明度",
+            "to": "社交媒体监测",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "提高教育透明度",
+            "to": "数据分析",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "开展心理咨询活动",
+            "to": "措施",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "开展心理咨询活动",
+            "to": "社交媒体监测",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "开展心理咨询活动",
+            "to": "心理健康评估",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "制定学术规范",
+            "to": "措施",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "制定学术规范",
+            "to": "投诉举报渠道",
+            "arrows": "to"
+        },
+        {
+            "title": "需要",
+            "label": "需要",
+            "color": "gray",
+            "from": "制定学术规范",
+            "to": "数据分析",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "监控系统建立",
+            "to": "检测方法",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "投诉举报渠道",
+            "to": "检测方法",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "数据分析",
+            "to": "检测方法",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "社交媒体监测",
+            "to": "检测方法",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "心理健康评估",
+            "to": "检测方法",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "学校",
+            "to": "角色",
+            "arrows": "to"
+        },
+        {
+            "title": "负责",
+            "label": "负责",
+            "color": "gray",
+            "from": "学校",
+            "to": "制定学术规范",
+            "arrows": "to"
+        },
+        {
+            "title": "负责",
+            "label": "负责",
+            "color": "gray",
+            "from": "学校",
+            "to": "加强安全管理",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "社会",
+            "to": "角色",
+            "arrows": "to"
+        },
+        {
+            "title": "负责",
+            "label": "负责",
+            "color": "gray",
+            "from": "社会",
+            "to": "改善校园环境",
+            "arrows": "to"
+        },
+        {
+            "title": "负责",
+            "label": "负责",
+            "color": "gray",
+            "from": "社会",
+            "to": "提高教育透明度",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "学生",
+            "to": "角色",
+            "arrows": "to"
+        },
+        {
+            "title": "参与",
+            "label": "参与",
+            "color": "gray",
+            "from": "学生",
+            "to": "开展心理咨询活动",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "政府",
+            "to": "角色",
+            "arrows": "to"
+        },
+        {
+            "title": "参与",
+            "label": "参与",
+            "color": "gray",
+            "from": "政府",
+            "to": "提高教育透明度",
+            "arrows": "to"
+        },
+        {
+            "title": "参与",
+            "label": "参与",
+            "color": "gray",
+            "from": "政府",
+            "to": "教育资源分配调整",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "校园暴力",
+            "to": "舆情事件",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "交通意外",
+            "to": "舆情事件",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "招生政策争议",
+            "to": "教育资源分配调整",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "招生政策争议",
+            "to": "舆情事件",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "学费标准争议",
+            "to": "社会舆论压力增大",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "学费标准争议",
+            "to": "舆情事件",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "学术不端行为",
+            "to": "舆情事件",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "校园食品卫生问题",
+            "to": "舆情事件",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "校园环境安全问题",
+            "to": "舆情事件",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "校园暴力事件",
+            "to": "社会信任降低",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "校园暴力事件",
+            "to": "生命财产损失",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "校园暴力事件",
+            "to": "事件",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "交通意外事故",
+            "to": "社会信任降低",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "交通意外事故",
+            "to": "生命财产损失",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "交通意外事故",
+            "to": "事件",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "招生政策",
+            "to": "政策",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "学费标准",
+            "to": "政策",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "抄袭行为",
+            "to": "社会信任降低",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "抄袭行为",
+            "to": "学术声誉受损",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "抄袭行为",
+            "to": "事件",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "作弊行为",
+            "to": "社会信任降低",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "作弊行为",
+            "to": "学术声誉受损",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "作弊行为",
+            "to": "事件",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "食品中毒事件",
+            "to": "公众关注度提高",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "食品中毒事件",
+            "to": "环境污染",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "食品中毒事件",
+            "to": "事件",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "环境污染事件",
+            "to": "公众关注度提高",
+            "arrows": "to"
+        },
+        {
+            "title": "导致",
+            "label": "导致",
+            "color": "gray",
+            "from": "环境污染事件",
+            "to": "环境污染",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "环境污染事件",
+            "to": "事件",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "心理辅导活动",
+            "to": "活动",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "心理健康讲座",
+            "to": "活动",
+            "arrows": "to"
+        },
+        {
+            "title": "用于",
+            "label": "用于",
+            "color": "gray",
+            "from": "监控摄像头",
+            "to": "监控系统建立",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "监控摄像头",
+            "to": "设备",
+            "arrows": "to"
+        },
+        {
+            "title": "用于",
+            "label": "用于",
+            "color": "gray",
+            "from": "在线投诉平台",
+            "to": "投诉举报渠道",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "在线投诉平台",
+            "to": "平台",
+            "arrows": "to"
+        },
+        {
+            "title": "用于",
+            "label": "用于",
+            "color": "gray",
+            "from": "大数据分析工具",
+            "to": "数据分析",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "大数据分析工具",
+            "to": "工具",
+            "arrows": "to"
+        },
+        {
+            "title": "用于",
+            "label": "用于",
+            "color": "gray",
+            "from": "社交媒体账号",
+            "to": "社交媒体监测",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "社交媒体账号",
+            "to": "平台",
+            "arrows": "to"
+        },
+        {
+            "title": "用于",
+            "label": "用于",
+            "color": "gray",
+            "from": "心理健康问卷",
+            "to": "心理健康评估",
+            "arrows": "to"
+        },
+        {
+            "title": "类型",
+            "label": "类型",
+            "color": "gray",
+            "from": "心理健康问卷",
+            "to": "工具",
+            "arrows": "to"
+        }
+    ]
+}
