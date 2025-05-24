@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.tjlgzh.campusdetectionwarningsystem1.mapper.OpinionInformationMapper">
+    <insert id="add">
+        insert into opinioninformation (time, place, event_type, course_event, handle_school, socialImpact)
+        values (#{time},#{place},#{eventType},#{courseEvent},#{handleSchool},#{socialImpact});
+    </insert>
+    <delete id="batchDelete">
+        delete
+        from opinioninformation
+        where id in
+        <foreach collection="ids" open="(" close=")" separator="," item="id">
+            #{id}
+        </foreach>
+    </delete>
+
+    <select id="page" resultType="com.tjlgzh.campusdetectionwarningsystem1.pojo.entity.opinionInformation">
+        select *
+        from opinioninformation
+        <where>
+            <if test="place != null and place != ''">
+                and place like concat('%',#{place},'%')
+            </if>
+            <if test="context != null and context != ''">
+                and course_event like concat('%',#{context},'%')
+            </if>
+            <if test="classification != null and classification != ''">
+                and event_type like concat('%',#{classification},'%')
+            </if>
+
+            <if test="time != null ">
+                and time >= #{time}
+            </if>
+        </where>
+        order by time desc
+        LIMIT #{pageSize} OFFSET #{offset}
+    </select>
+    <select id="countTotal" resultType="java.lang.Long">
+        SELECT COUNT(*)
+        FROM opinioninformation
+        <where>
+            <if test="place != null and place != ''">
+                AND place LIKE CONCAT('%', #{place}, '%')
+            </if>
+            <if test="context != null and context != ''">
+                AND course_event LIKE CONCAT('%', #{context}, '%')
+            </if>
+            <if test="classification != null and classification != ''">
+                AND event_type LIKE CONCAT('%', #{classification}, '%')
+            </if>
+            <if test="time != null">
+                AND time >= #{time}
+            </if>
+        </where>
+    </select>
+</mapper>
+

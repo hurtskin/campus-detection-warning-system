@@ -1,8 +1,8 @@
 import sys
-sys.path.append(r'opinionOnCampus\predict')
-import os
 import jieba
 import torch
+sys.path.append(r'opinionOnCampus\predict')
+import os
 from model import Model
 from config import Config
 
